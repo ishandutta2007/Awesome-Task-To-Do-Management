@@ -1,6 +1,6 @@
 # Awesome-Task-To-Do-Management
 
-# Top Task & To-Do Management Tools Ecosystem
+## Top Task & To-Do Management Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Self-Hosted Sovereignty, GTD Workflows & Time Tracking Integration*  
